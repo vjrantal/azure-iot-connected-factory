@@ -91,12 +91,12 @@
     <Reference Include="Microsoft.AspNetCore.WebUtilities, Version=1.1.2.0, Culture=neutral, PublicKeyToken=adb9793829ddae60, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.AspNetCore.WebUtilities.1.1.2\lib\net451\Microsoft.AspNetCore.WebUtilities.dll</HintPath>
     </Reference>
-    <Reference Include="Microsoft.Azure.Devices.Opc.Ua.Proxy, Version=0.2.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Azure.Devices.Opc.Ua.Proxy.0.2.4\lib\net46\Microsoft.Azure.Devices.Opc.Ua.Proxy.dll</HintPath>
+    <Reference Include="Microsoft.Azure.Devices.Proxy.Opc.Ua, Version=.1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.Devices.Proxy.Opc.Ua.1.0.0\lib\net46\Microsoft.Azure.Devices.Proxy.Opc.Ua.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Microsoft.Azure.Devices.Proxy, Version=0.1.4.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Microsoft.Azure.Devices.Proxy.0.1.4\lib\net46\Microsoft.Azure.Devices.Proxy.dll</HintPath>
+    <Reference Include="Microsoft.Azure.Devices.Proxy, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Azure.Devices.Proxy.1.0.0\lib\net46\Microsoft.Azure.Devices.Proxy.dll</HintPath>
       <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.CSharp">
